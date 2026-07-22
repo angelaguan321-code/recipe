@@ -39,6 +39,14 @@
   grid-column-end: 3;
 }
 
+.flip-card{
+  font-size: 20px;
+  background-color: #6495ED;
+  grid-row-start: 3;
+  grid-row-end: 4;
+  grid-column-start: 1;
+  grid-column-end: 2;
+
 
   
 
