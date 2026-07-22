@@ -2,6 +2,7 @@
   background-color: white;
   display: grid;
   grid-template-columns: auto auto auto auto;
+  grid-template-rows: 100px auto auto auto;
   grid-gap: 1px;
   height: 650px;
 }
@@ -11,5 +12,13 @@
   color: white;
   font-size: 30px;
   text-align: center;
+}
+
+.sushi{
+  font-size: 50px
+  grid-row-start: 1;
+  grid-row-end: 1;
+  grid-column-start: 1;
+  grid-column-end: 5;
 }
   
