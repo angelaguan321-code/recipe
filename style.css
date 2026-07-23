@@ -82,11 +82,6 @@
   transform: rotateY(180deg);
 }
 
-.flip-card-back ul{
-  list-style-position: inside;
-  padding-left: 0;
-  margin: 0 auto;
-}
   
   
 
