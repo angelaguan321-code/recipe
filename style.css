@@ -77,7 +77,7 @@
 .flip-card-back {
   font-size: 20px;
   background-color: #6495ED;
-  color: #6495ED;
+  color: white;
   transform: rotateY(180deg);
 }
   
